@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'vazir';
+    src: url('../font/Vazir.ttf');
+}
+
+@layer base {
+    a,
+    button {
+        @apply transition-all duration-300 ease-in-out;
+    }
+}
