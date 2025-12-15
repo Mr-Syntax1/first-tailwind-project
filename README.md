@@ -12,7 +12,7 @@ Check out the live version of this project here:
 This is my **first project using Tailwind CSS**, a simple yet fully responsive **shopping website** built with **HTML, Tailwind CSS, and JavaScript**.  
 The project is fully **built and functional**, designed to showcase a **landing page**, **product cards**, **category tabs**, **FAQ section**, and a **newsletter subscription form**.  
 
-> This project is beginner-friendly, lightweight, and responsive, representing my first steps into Tailwind CSS and modern UI design.
+> This project is beginner-friendly, lightweight , representing my first steps into Tailwind CSS and modern UI design.
 
 ---
 
