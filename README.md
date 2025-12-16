@@ -27,8 +27,13 @@ The project is fully **built and functional**, designed to showcase a **landing 
 
 ---
 
-## 💻 Installation
+## ⚡ Getting Started / Run the Project Locally
 
-1. Clone the repository:
+Follow these steps to run the project on your machine:
+
+1. **Navigate to the project folder:**
 ```bash
-git clone https://github.com/Mr-Syntax1/first-tailwind-project.git
+cd first-tailwind-project
+npm install
+Run Tailwind in watch mode to compile your CSS while developing:
+npm run watch
