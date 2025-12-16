@@ -5,7 +5,8 @@
 ## 🚀 Live Demo
 
 Check out the live version of this project here:  
-[**Tailwind Shop Live Demo**](https://YOUR-GITHUB-PAGE.github.io/tailwind-shop/)
+
+[**Tailwind Shop Live Demo**](https://mr-syntax1.github.io/first-tailwind-project/)
 
 ---
 
