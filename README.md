@@ -31,4 +31,4 @@ The project is fully **built and functional**, designed to showcase a **landing 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/tailwind-shop.git
+git clone https://github.com/Mr-Syntax1/first-tailwind-project.git
