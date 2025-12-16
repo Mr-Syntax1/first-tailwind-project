@@ -35,5 +35,7 @@ Follow these steps to run the project on your machine:
 ```bash
 cd first-tailwind-project
 npm install
+```
 Run Tailwind in watch mode to compile your CSS while developing:
+```
 npm run watch
