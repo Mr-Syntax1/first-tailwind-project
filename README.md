@@ -32,8 +32,11 @@ The project is fully **built and functional**, designed to showcase a **landing 
 Follow these steps to run the project on your machine:
 
 1. **Navigate to the project folder:**
-```bash
+```
 cd first-tailwind-project
+```
+Install dependencies:
+```
 npm install
 ```
 Run Tailwind in watch mode to compile your CSS while developing:
