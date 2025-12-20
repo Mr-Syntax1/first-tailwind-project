@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-Check out the live version of this project here:  
+Check out the live version of this project here:
 
 [**Tailwind Shop Live Demo**](https://mr-syntax1.github.io/first-tailwind-project/)
 
